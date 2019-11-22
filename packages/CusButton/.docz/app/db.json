@@ -1,0 +1,28 @@
+{
+  "config": {
+    "title": "Cusbutton",
+    "description": "一个自定义按钮（组件）",
+    "menu": [],
+    "version": "0.0.0",
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {
+      "mode": "light"
+    },
+    "separator": "-",
+    "typescript": false,
+    "theme": "/Users/zhaihao/.nvm/versions/node/v10.13.0/lib/node_modules/father/node_modules/docz-theme-umi/es/index.js",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "entries": [],
+  "props": []
+}
